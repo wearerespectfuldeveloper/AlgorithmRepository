@@ -1,6 +1,6 @@
-###[HackerRank - Modified Karprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)
+### [HackerRank - Modified Karprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers/problem)
 - - -
-###문제 요약
+### 문제 요약
 임의의 숫자 n 이 주어졌을 때, 숫자의 길이가 d 라고 하자. (ex. n = 15 --> d = 2)
 임의의 숫자 n 을 제곱하고, 그 숫자의 길이를 왼쪽과 오른쪽 두 부분으로 나눈다. 제곱 숫자의 오른쪽부터 d 만큼 자른 숫자를 r, 그리고 남은 나머지 왼쪽 부분을 l 이라고 할 때,
 n == (l + r) 이면 변형된 카프카 수라고 한다.
