@@ -1,4 +1,3 @@
-ward-shop/HELP.md
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**
@@ -30,6 +29,4 @@ build/
 ### VS Code ###
 .vscode/
 
-### ignore yml file ###
-application-realrds.yml
 /.metadata/
